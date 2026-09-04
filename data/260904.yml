@@ -1,32 +1,42 @@
 about:
-  description: a TUI utility for running multiple commands in parallel in easily switchable terminals
+  description:
+  |
+    a TUI utility for running multiple commands in parallel in easily switchable terminals
   license: MIT
   homepage: 
   head: 3fc3aef
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T05:04:57Z
+  collectedAt: 2026-09-04T19:58:29Z
 timeline:
   created: 2022-09-24
   lastCommit: 2025-11-23
-  lastRelease: ?
+  lastRelease: 
 popularity:
   star: 111
   watcher: 3
   fork: 6
   release: 0
   contributor: 2
-  pullRequest: 0
+  pullRequest: 23
   issue: 3
 language:
   Python: 81381
   Nix: 3677
   Makefile: 280
   Shell: 10
-totalLine: 85348
+totalBytes: 85348
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -57,3 +67,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 1
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 16
+total:
+  release: 0
+  mergedPR: 23
+  openPR: 0
+  closedIssue: 1
+  openIssue: 2
+  commit: 133
+---
+---
+
