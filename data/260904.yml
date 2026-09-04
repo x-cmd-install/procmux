@@ -7,7 +7,7 @@ about:
   head: 3fc3aef
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:58:29Z
+  collectedAt: 2026-09-04T20:41:18Z
 timeline:
   created: 2022-09-24
   lastCommit: 2025-11-23
@@ -83,5 +83,53 @@ total:
   openIssue: 2
   commit: 133
 ---
+path: /home/runner/.x-repo/github.com/napisani/procmux
+collectedAt: 2026-09-04T20:41:19Z
+loc:
+  Python:
+    code: 1822
+    comments: 31
+    blanks: 398
+    files: 29
+  Yaml:
+    code: 128
+    comments: 38
+    blanks: 3
+    files: 2
+  Nix:
+    code: 106
+    comments: 0
+    blanks: 15
+    files: 2
+  Toml:
+    code: 37
+    comments: 8
+    blanks: 8
+    files: 1
+  Makefile:
+    code: 17
+    comments: 0
+    blanks: 8
+    files: 1
+  Ini:
+    code: 2
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 50
+    blanks: 30
+    files: 1
+  Text:
+    code: 0
+    comments: 4
+    blanks: 3
+    files: 1
+total:
+  code: 2223
+  comments: 196
+  blanks: 477
+  files: 38
 ---
 
